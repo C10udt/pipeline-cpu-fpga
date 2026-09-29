@@ -1,0 +1,18 @@
+# Vivado generated
+vivado/
+output/
+reports/
+ip_repo/
+.runs/
+.cache/
+.hw/
+.sdk/
+*.jou
+*.log
+*.wdb
+*.bit
+*.bin
+
+# OS
+Thumbs.db
+.DS_Store
